@@ -1,9 +1,7 @@
-rainbow
 red
 orange
 yellow 
 green
 blue
-
 violet
 this is Rainbow color
