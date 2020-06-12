@@ -2,6 +2,7 @@ red
 orange
 yellow 
 green
+stars 
 blue
 violet
-this is Rainbow color
+this is Rainbow color and stars
